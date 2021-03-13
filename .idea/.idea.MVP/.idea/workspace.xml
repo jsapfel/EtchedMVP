@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1da8a2a-3696-481b-a2e9-33d48ac7287c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy2Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Machine_Justify2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Machine_LineSegment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Circle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LineSegment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Machine_Justify1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Machine_Extend.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RightAngle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StunProj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy1Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CanvasController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Machine_RightAngle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Line.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KbProj.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Machine_CIrcle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Machine_LineSegment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Line.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Circle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Machine_Extend.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RightAngle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Machine_RightAngle.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExplosiveLLC/SuperCharacterController/SuperCharacterController/Core/SuperCharacterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LineSegment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Machine_Justify.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EndPlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Machine_Parallel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Machine_Justify1.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExplosiveLLC/RPG Character Animation Pack FREE/Code/RPGCharacterMovementControllerFREE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KbProj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StunProj.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExplosiveLLC/RPG Character Animation Pack FREE/Code/RPGCharacterInputControllerFREE.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExplosiveLLC/RPG Character Animation Pack FREE/Code/GUIControlsFREE.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExplosiveLLC/RPG Character Animation Pack FREE/Code/RPGCharacterControllerFREE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy1Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy2Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Machine_Circle.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExplosiveLLC/RPG Character Animation Pack FREE/Code/CameraControllerFREE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Machine_Justify2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CanvasController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lFBMbSqXJNW4T3dCdSFeNMNzqR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1da8a2a-3696-481b-a2e9-33d48ac7287c" name="Default Changelist" comment="" />
+      <created>1607182919634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607182919634</updated>
+      <workItem from="1607182933413" duration="5645000" />
+      <workItem from="1607192670662" duration="15564000" />
+      <workItem from="1607267428773" duration="30987000" />
+      <workItem from="1607437235059" duration="14451000" />
+      <workItem from="1607462073579" duration="8343000" />
+      <workItem from="1607472333333" duration="45610000" />
+      <workItem from="1607570295532" duration="9160000" />
+      <workItem from="1607605107563" duration="10481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="41" key="SettingsEditor" timestamp="1607292281480">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state x="0" y="41" key="SettingsEditor/0.23.1280.740@0.23.1280.740" timestamp="1607292281480" />
+    <state x="274" y="84" key="search.everywhere.popup" timestamp="1607485684811">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state x="274" y="84" key="search.everywhere.popup/0.23.1280.740@0.23.1280.740" timestamp="1607485684811" />
+  </component>
+</project>

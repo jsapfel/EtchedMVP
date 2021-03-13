@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collide
+  - Machine_Circle
+  - Machine_LineSegment
+  - Circle
+  - Segment
+  - Point
+  - Machine_ParallelLine
+  - Machine_RightAngle
+  - Machine_ExtendLine
+  - Enemy1
+  - Canvas
+  - Machine_Justify1
+  - Machine_Justify2
+  - Machine_Justify3
+  - Enemy2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TempCast
+  - Walkable
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
